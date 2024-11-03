@@ -1,0 +1,22 @@
+Politique de confidentialité 🇫🇷
+
+Le robot peut utiliser les données stockées, telles que définies ci-dessous, pour différentes fonctionnalités, notamment : gérer les commandes.
+Aucune utilisation des données en dehors des cas mentionnés ci-dessus n'aura lieu et les données ne seront partagées avec aucun site ou service tiers.
+
+Informations stockées
+Le bot peut stocker automatiquement les informations suivantes lorsqu'il est invité sur un nouveau serveur Discord :
+
+- nom avec le Nom du serveur comme valeur.
+- id avec l'ID du serveur comme valeur.
+- créateur avec l'ID du créateur du serveur comme valeur.
+- membres avec le Nombre de membres du serveur comme valeur.
+- boosts avec le Nombre de boosts du serveur comme valeur.
+Aucune autre information en dehors de celle mentionnée ci-dessus ne sera stockée.
+
+Mise à jour des données
+Les données peuvent être mises à jour lors de l'utilisation de fonctionnalités spécifiques du bot.
+De telles mises à jour de données nécessitent souvent la saisie d'un utilisateur, y compris des données qui peuvent être considérées comme identifiables et sensibles, telles que des messages texte. Ces données sont uniquement conservées dans la base de données et utilisées uniquement aux fins prévues.
+
+Suppression automatique des données
+Les données stockées peuvent être supprimées automatiquement en supprimant le bot d'un serveur. Ceci peut être réalisé en utilisant les fonctionnalités de modération fournies par Discord.
+Le fait de rajouter le bot au serveur stockera à nouveau les données, comme décrit dans la section Informations stockées de cette politique.
