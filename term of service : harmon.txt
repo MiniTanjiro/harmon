@@ -1,0 +1,25 @@
+CONDITIONS D'UTILISATION 🇫🇷
+
+L'accord de conditions d'utilisation est conclu entre @mini_tanjiro, propriétaire et développeur du robot et l'utilisateur du robot Discord Harmon#2525.
+
+En utilisant le Bot, l'Utilisateur accepte d'être lié par les termes du présent Contrat. S'il ne les accepte pas, il devra renoncer à utiliser ce robot
+
+1. Utilisation du Bot : Le propriétaire du Bot accorde à l'utilisateur une licence non exclusive, non transférable et limitée pour utiliser le Bot à des fins personnelles ou non commerciales.
+
+2. Utilisation interdite : L'utilisateur ne peut pas utiliser le Bot d'une manière qui viole les lois, règles ou réglementations applicables ou qui porte atteinte aux droits d'une personne. L'utilisateur ne peut pas utiliser le Bot à des fins commerciales sans le consentement écrit exprès de @mini_tanjiro, propriétaire et développeur du robot.
+
+3. Limitation de responsabilité : Le propriétaire du Bot ne sera pas responsable de tout dommage résultant de l'utilisation ou de l'incapacité d'utiliser le Bot, y compris, mais sans s'y limiter, les dommages pour perte de profits, perte de données ou autres pertes intangibles.
+
+4. Modifications du Bot : Le propriétaire du Bot peut modifier ou interrompre le Bot à tout moment et sans préavis. L'Utilisateur accepte que le Propriétaire du Bot ne soit pas responsable envers l'Utilisateur ou tout tiers pour toute modification, suspension ou interruption du Bot.
+
+5. Propriété intellectuelle : Le Bot et tous les droits de propriété intellectuelle y afférent sont et resteront la propriété du propriétaire. L'utilisateur s'engage à ne pas copier, modifier ou distribuer le Bot ou toute partie de celui-ci sans le consentement écrit exprès du propriétaire du Bot.
+
+6. Indemnisation : l'utilisateur s'engage à indemniser et à dégager de toute responsabilité le propriétaire du robot.
+
+7. Résiliation : Le présent Accord peut être résilié par l'une ou l'autre des parties à tout moment et pour quelque raison que ce soit. En cas de résiliation, l’Utilisateur doit immédiatement cesser toute utilisation du Bot.
+
+8. Loi applicable : le présent accord sera régi et interprété conformément aux lois de la France.
+
+9. Intégralité de l'accord : le présent accord constitue l'intégralité de l'accord entre les parties et remplace tous les accords ou représentations antérieurs ou contemporains, qu'ils soient écrits ou oraux, relatifs au Bot.
+
+En utilisant le Bot, l'Utilisateur reconnaît avoir lu le présent Contrat, l'avoir compris et accepter d'être lié par ses termes et conditions.
